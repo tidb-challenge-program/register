@@ -1,7 +1,7 @@
 ---
-name: "✈️ Performance Challenge Program"
-about: PCP Season1 Program
-title: 'PCP/Sign Up'
+name: "Challenge Program Register"
+about: Challenge Program Seasons Program
+title: 'Challenge Program Register'
 labels: ''
 assignees: ''
 
@@ -10,8 +10,13 @@ assignees: ''
 <!--
   For personal sign up, please introduce yourself briefly and leave your email address for future contact.
   For team sign up, please introduce your team briefly, give a team name, list your team members and leave an email address for future contact.
+  Choose one template and delete others.
   Up to three members in a team.
 -->
+
+## Personal Sign up
+
+- Email: sre-bot@pingcap.com
 
 ## Team Sign up
 
