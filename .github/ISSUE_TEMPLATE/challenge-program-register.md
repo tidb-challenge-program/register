@@ -1,7 +1,7 @@
 ---
-name: "Challenge Program Register"
-about: Challenge Program Seasons Program
-title: 'Challenge Program Register'
+name: "Usability challenge Program Register"
+about: Challenge Program Season 2
+title: 'UCP/Signup'
 labels: ''
 assignees: ''
 
