@@ -15,4 +15,4 @@ assignees: ''
 
 NOTE:
 1. A Team can have AT MOST 3 peopole, including the Team Leader.
-2. A Team MUST have a Team Leader, even if there is only 1 peopole in the Team.
+2. A Team MUST have a Team Leader, even if there is only 1 people in the Team.
